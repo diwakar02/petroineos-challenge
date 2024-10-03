@@ -29,6 +29,8 @@ ASSUMPTIONS:
    
 
 P.S. - The network check didn't happen correctly due to less time but are present in the file although not very sure on their run schedule. Did with help from online resources.
+Module is working but the request retry is returning null session sometimes, Tests were intially checked for cols, null etc on local system but not working while referencing the package driver
+Overall, it is partially working solution.
 
 
 AS discussed:
