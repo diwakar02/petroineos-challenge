@@ -1,0 +1,67 @@
+2024-10-03 13:50:27,266 - petroineos_data_module - INFO - No 'Last-Modified' header found for this file.
+2024-10-03 13:50:27,583 - petroineos_data_module - INFO - Downloading https://assets.publishing.service.gov.uk/media/66f420ff080bdf716392e8c2/ET_3.1_SEP_24.xlsx to ET_3.1_SEP_24.xlsx
+2024-10-03 13:50:27,726 - petroineos_data_module - INFO - File Download Complete!
+
+2024-10-03 13:50:27,977 - petroineos_data_module - INFO - Columns do not match. Exit the program and check the input file
+2024-10-03 13:52:07,954 - petroineos_data_module - INFO - No 'Last-Modified' header found for this file.
+2024-10-03 13:52:08,272 - petroineos_data_module - INFO - Downloading https://assets.publishing.service.gov.uk/media/66f420ff080bdf716392e8c2/ET_3.1_SEP_24.xlsx to ET_3.1_SEP_24.xlsx
+2024-10-03 13:52:08,402 - petroineos_data_module - INFO - File Download Complete!
+
+2024-10-03 13:52:08,639 - petroineos_data_module - INFO - Columns do not match. Exit the program and check the input file
+2024-10-03 13:56:20,358 - petroineos_data_module - INFO - No 'Last-Modified' header found for this file.
+2024-10-03 13:56:20,709 - petroineos_data_module - INFO - Downloading https://assets.publishing.service.gov.uk/media/66f420ff080bdf716392e8c2/ET_3.1_SEP_24.xlsx to ET_3.1_SEP_24.xlsx
+2024-10-03 13:56:20,843 - petroineos_data_module - INFO - File Download Complete!
+
+2024-10-03 13:56:21,083 - petroineos_data_module - INFO - Columns do not match. Exit the program and check the input file
+2024-10-03 13:57:09,940 - petroineos_data_module - INFO - No 'Last-Modified' header found for this file.
+2024-10-03 13:57:10,160 - petroineos_data_module - INFO - Downloading https://assets.publishing.service.gov.uk/media/66f420ff080bdf716392e8c2/ET_3.1_SEP_24.xlsx to ET_3.1_SEP_24.xlsx
+2024-10-03 13:57:10,292 - petroineos_data_module - INFO - File Download Complete!
+
+2024-10-03 13:57:10,538 - petroineos_data_module - INFO - ['Indigenous_production', 'Indigenous_production_Crude_oil', 'Indigenous_production_NGLs', 'Indigenous_production_Feedstocks', 'Imports', 'Imports_Crude oil_&_NGLs', 'Imports_Feedstocks', 'Exports', 'Exports_Crude oil_&_NGLs', 'Exports_Feedstocks', 'Stock_change', 'Transfers', 'Total_supply', 'Statistical_difference', 'Total_demand', 'Transformation', 'Petroleum_refineries', 'Energy_industry_use', 'Oil_&_gas_extraction', 'Quarter']
+2024-10-03 13:57:10,539 - petroineos_data_module - INFO - ['Quarter', 'Indigenous_production', 'Indigenous_production_Crude_oil', 'Indigenous_production_NGLs', 'Indigenous_production_Feedstocks', 'Imports', 'Imports_Crude oil_&_NGLs', 'Imports_Feedstocks', 'Exports', 'Exports_Crude oil_&_NGLs', 'Exports_Feedstocks', 'Stock_change', 'Transfers', 'Total_supply', 'Statistical_difference', 'Total_demand', 'Transformation', 'Petroleum_refineries', 'Energy_industry_use', 'Oil_&_gas_extraction', 'date']
+2024-10-03 13:57:10,539 - petroineos_data_module - INFO - Columns do not match. Exit the program and check the input file
+2024-10-03 13:57:52,505 - petroineos_data_module - INFO - No 'Last-Modified' header found for this file.
+2024-10-03 13:57:52,806 - petroineos_data_module - INFO - Downloading https://assets.publishing.service.gov.uk/media/66f420ff080bdf716392e8c2/ET_3.1_SEP_24.xlsx to ET_3.1_SEP_24.xlsx
+2024-10-03 13:57:52,922 - petroineos_data_module - INFO - File Download Complete!
+
+2024-10-03 13:57:53,160 - petroineos_data_module - INFO - {'Petroleum_refineries', 'Exports', 'Exports_Crude oil_&_NGLs', 'Total_supply', 'Indigenous_production_Feedstocks', 'Imports_Crude oil_&_NGLs', 'Imports_Feedstocks', 'Indigenous_production_NGLs', 'Transformation', 'Indigenous_production', 'Stock_change', 'Energy_industry_use', 'Quarter', 'Total_demand', 'Statistical_difference', 'Oil_&_gas_extraction', 'Exports_Feedstocks', 'Indigenous_production_Crude_oil', 'Transfers', 'Imports'}
+2024-10-03 13:57:53,161 - petroineos_data_module - ERROR - Error checking the file: Colum Mismatch 'Logger' object has no attribute 'infoset'
+2024-10-03 13:58:25,618 - petroineos_data_module - INFO - No 'Last-Modified' header found for this file.
+2024-10-03 13:58:25,820 - petroineos_data_module - INFO - Downloading https://assets.publishing.service.gov.uk/media/66f420ff080bdf716392e8c2/ET_3.1_SEP_24.xlsx to ET_3.1_SEP_24.xlsx
+2024-10-03 13:58:25,907 - petroineos_data_module - INFO - File Download Complete!
+
+2024-10-03 13:58:26,163 - petroineos_data_module - INFO - {'Indigenous_production_Crude_oil', 'Indigenous_production_Feedstocks', 'Imports_Crude oil_&_NGLs', 'Transformation', 'Exports_Crude oil_&_NGLs', 'Indigenous_production', 'Indigenous_production_NGLs', 'Quarter', 'Imports_Feedstocks', 'Total_demand', 'Stock_change', 'Total_supply', 'Statistical_difference', 'Transfers', 'Petroleum_refineries', 'Oil_&_gas_extraction', 'Exports', 'Imports', 'Exports_Feedstocks', 'Energy_industry_use'}
+2024-10-03 13:58:26,163 - petroineos_data_module - INFO - {'Indigenous_production_Crude_oil', 'Indigenous_production_Feedstocks', 'Imports_Crude oil_&_NGLs', 'Transformation', 'Exports_Crude oil_&_NGLs', 'Indigenous_production', 'Indigenous_production_NGLs', 'Quarter', 'date', 'Imports_Feedstocks', 'Total_demand', 'Stock_change', 'Total_supply', 'Statistical_difference', 'Transfers', 'Petroleum_refineries', 'Oil_&_gas_extraction', 'Exports', 'Imports', 'Exports_Feedstocks', 'Energy_industry_use'}
+2024-10-03 13:58:26,163 - petroineos_data_module - INFO - Columns do not match. Exit the program and check the input file
+2024-10-03 14:01:40,368 - petroineos_data_module - INFO - No 'Last-Modified' header found for this file.
+2024-10-03 14:01:40,570 - petroineos_data_module - INFO - Downloading https://assets.publishing.service.gov.uk/media/66f420ff080bdf716392e8c2/ET_3.1_SEP_24.xlsx to ET_3.1_SEP_24.xlsx
+2024-10-03 14:01:40,696 - petroineos_data_module - INFO - File Download Complete!
+
+2024-10-03 14:01:41,020 - petroineos_data_module - INFO - {'Imports_Crude oil_&_NGLs', 'Exports', 'Imports_Feedstocks', 'Exports_Feedstocks', 'Imports', 'Stock_change', 'Total_demand', 'Total_supply', 'Energy_industry_use', 'Indigenous_production_NGLs', 'Exports_Crude oil_&_NGLs', 'Oil_&_gas_extraction', 'Transformation', 'Statistical_difference', 'Indigenous_production', 'Petroleum_refineries', 'Indigenous_production_Feedstocks', 'Transfers', 'Indigenous_production_Crude_oil'}
+2024-10-03 14:01:41,020 - petroineos_data_module - INFO - {'Imports_Crude oil_&_NGLs', 'Exports', 'Imports_Feedstocks', 'Exports_Feedstocks', 'Imports', 'Stock_change', 'Total_demand', 'Total_supply', 'Energy_industry_use', 'Indigenous_production_NGLs', 'Exports_Crude oil_&_NGLs', 'Oil_&_gas_extraction', 'Transformation', 'Statistical_difference', 'Indigenous_production', 'date', 'Petroleum_refineries', 'Indigenous_production_Feedstocks', 'Transfers', 'Indigenous_production_Crude_oil', 'Quarter'}
+2024-10-03 14:01:41,020 - petroineos_data_module - INFO - Columns do not match. Exit the program and check the input file
+2024-10-03 14:02:35,693 - petroineos_data_module - INFO - No 'Last-Modified' header found for this file.
+2024-10-03 14:02:35,912 - petroineos_data_module - INFO - Downloading https://assets.publishing.service.gov.uk/media/66f420ff080bdf716392e8c2/ET_3.1_SEP_24.xlsx to ET_3.1_SEP_24.xlsx
+2024-10-03 14:02:36,045 - petroineos_data_module - INFO - File Download Complete!
+
+2024-10-03 14:03:30,505 - petroineos_data_module - INFO - No 'Last-Modified' header found for this file.
+2024-10-03 14:03:30,848 - petroineos_data_module - INFO - Downloading https://assets.publishing.service.gov.uk/media/66f420ff080bdf716392e8c2/ET_3.1_SEP_24.xlsx to ET_3.1_SEP_24.xlsx
+2024-10-03 14:03:31,085 - petroineos_data_module - INFO - File Download Complete!
+
+2024-10-03 14:10:03,550 - petroineos_data_module - INFO - No 'Last-Modified' header found for this file.
+2024-10-03 14:10:03,877 - petroineos_data_module - INFO - Downloading https://assets.publishing.service.gov.uk/media/66f420ff080bdf716392e8c2/ET_3.1_SEP_24.xlsx to ET_3.1_SEP_24.xlsx
+2024-10-03 14:10:04,002 - petroineos_data_module - INFO - File Download Complete!
+
+2024-10-03 14:12:33,438 - petroineos_data_module - INFO - No 'Last-Modified' header found for this file.
+2024-10-03 14:12:33,789 - petroineos_data_module - INFO - Downloading https://assets.publishing.service.gov.uk/media/66f420ff080bdf716392e8c2/ET_3.1_SEP_24.xlsx to ET_3.1_SEP_24.xlsx
+2024-10-03 14:12:33,928 - petroineos_data_module - INFO - File Download Complete!
+
+2024-10-03 14:12:33,929 - petroineos_data_module - ERROR - An error occurred while doing transformationname 'output_dir' is not defined
+2024-10-03 14:33:10,002 - petroineos_data_module - INFO - No 'Last-Modified' header found for this file.
+2024-10-03 14:33:10,326 - petroineos_data_module - INFO - Downloading https://assets.publishing.service.gov.uk/media/66f420ff080bdf716392e8c2/ET_3.1_SEP_24.xlsx to ET_3.1_SEP_24.xlsx
+2024-10-03 14:33:10,487 - petroineos_data_module - INFO - File Download Complete!
+
+2024-10-03 14:33:54,984 - petroineos_data_module - INFO - No 'Last-Modified' header found for this file.
+2024-10-03 14:33:55,915 - petroineos_data_module - INFO - Downloading https://assets.publishing.service.gov.uk/media/66f420ff080bdf716392e8c2/ET_3.1_SEP_24.xlsx to ET_3.1_SEP_24.xlsx
+2024-10-03 14:33:56,287 - petroineos_data_module - INFO - File Download Complete!
+

@@ -1,0 +1,21 @@
+
+
+[project]
+name = "Petroineos"
+version = "0.1.0"
+description = "Petroineos Data Challenge package which checks for quarterly data file on web and make transformtions"
+authors = [
+    { name="Your Name", email="diiwakarsharma@outlook.com" }
+]
+readme = "README.md"
+requires-python = ">=3.7"  # Minimum Python version
+dependencies = [
+    "pandas",
+    "requests",
+    "bs4",
+    "urllib",
+    "urllib3"
+]
+
+[tool.setuptools]
+packages = ["petroineos"]
